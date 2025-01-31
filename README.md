@@ -1,7 +1,5 @@
 # 🌍♻️ Earth Keepers - Gamified Trash Collection App
 
-![Earth Keepers](docs/images/earth-keepers-banner.png)
-
 **Earth Keepers** is a **machine learning-powered** mobile app that gamifies the process of trash collection, making environmental cleanup engaging and rewarding. Users earn points for collecting and categorizing trash in real-time using **YOLOv8 Object Detection** and **MediaPipe Hand Tracking**.
 
 🚀 **Problem Addressed:**  
