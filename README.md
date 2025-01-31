@@ -13,14 +13,9 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 ## 📜 Table of Contents
 - [🛠 Features](#-features)
 - [🎯 Target Audience](#-target-audience)
-- [📸 Screenshots](#-screenshots)
+- [📸 Technologies Used](#-screenshots)
 - [🚀 How It Works](#-how-it-works)
 - [📦 Installation](#-installation)
-- [🛠 Technologies Used](#-technologies-used)
-- [✅ Verification & Testing](#-verification--testing)
-- [📈 Impact](#-impact)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
 
 ---
 
@@ -41,12 +36,13 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 
 ---
 
-## 📸 **Screenshots**
+## 📸 **Technologies Used**
 | Feature  | Screenshot |
 |----------|-----------|
-| **Trash Detection in Action** | ![Trash Detection](docs/images/trash-detection.png) |
-| **Hand Gesture Recognition** | ![Hand Tracking](docs/images/hand-tracking.png) |
-| **Gamification System** | ![Gamification](docs/images/gamification.png) |
+| **Trash Detection** | YOLOv8 |
+| **Hand Gesture Recognition** | MediaPipe |
+| **Language** | Kotlin |
+| **Database** | Firebase |
 
 ---
 
