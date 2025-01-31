@@ -73,8 +73,3 @@ Ensure you have the following installed:
 - PyTorch (`pip install torch torchvision torchaudio`)
 - YOLOv8 (`pip install ultralytics`)
 - MediaPipe (`pip install mediapipe`)
-
-### 🔹 Clone the Repository
-```sh
-git clone https://github.com/yourusername/Earth-Keepers.git
-cd Earth-Keepers
