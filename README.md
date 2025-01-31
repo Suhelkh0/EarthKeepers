@@ -8,6 +8,7 @@ The increasing prevalence of **uncollected trash in public spaces** poses a seri
 💡 **Solution:**  
 A **fun, engaging, and gamified experience** that encourages users to participate in **waste collection efforts** using AI-powered recognition.
 
+
 ---
 
 ## 📜 Table of Contents
