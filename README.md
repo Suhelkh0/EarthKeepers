@@ -11,6 +11,14 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 
 ---
 
+Video about the Game
+
+🔗 **Link to the video on Drive**: [Earth Keepers Video]([https://suhelkh0.github.io/SimonGame/](https://drive.google.com/file/d/153BKVpO8u6qMvd_Xfvm-vfoBHvbb_BWf/view?usp=sharing)![image](https://github.com/user-attachments/assets/9ae7335f-d89f-42fb-b9d5-300416f21d07)
+
+)
+
+---
+
 ## 📜 Table of Contents
 - [🛠 Features](#-features)
 - [🎯 Target Audience](#-target-audience)
