@@ -13,7 +13,7 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 ## 📜 Table of Contents
 - [🛠 Features](#-features)
 - [🎯 Target Audience](#-target-audience)
-- [📸 Technologies Used](#-screenshots)
+- [📸 Technologies Used](#-technologies-used)
 - [🚀 How It Works](#-how-it-works)
 - [📦 Installation](#-installation)
 
