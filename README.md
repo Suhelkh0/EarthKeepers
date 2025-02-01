@@ -26,7 +26,7 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 - [📸 Product Architecture](#-product's-uml)
 - [📸 Dataset](#-dataset)
 - [📸 Results of the Training](#-results-of-the-training)
-- - [📸 Testing](#-testing)
+- [📸 Testing](#-testing)
 - [📦 Installation](#-installation)
 
 ---
