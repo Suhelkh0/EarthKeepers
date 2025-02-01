@@ -23,7 +23,7 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 - [🎯 Target Audience](#-target-audience)
 - [📸 Technologies Used](#-technologies-used)
 - [🚀 How It Works](#-how-it-works)
-- [🛠️ Product UML](#-product-uml)
+- [🛠️ Product's UML](#-product-uml)
 - [📊 Dataset](#-dataset)
 - [🧠 Results of the Training](#-results-of-the-training)
 - [🧪 Testing](#-testing)
@@ -77,7 +77,7 @@ For the full description of the project see the files in the repository:
 
 ---
 
-## 🛠️ **Product UML**
+## 🛠️ **Product's UML**
 ### **Software Architecture Diagram**
 
 <img width="871" alt="Screenshot 2025-02-01 at 13 27 16" src="https://github.com/user-attachments/assets/a420e2d9-4bb7-464a-b49f-66462dfb7ab3" />
