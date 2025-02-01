@@ -23,7 +23,7 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 - [🎯 Target Audience](#-target-audience)
 - [📸 Technologies Used](#-technologies-used)
 - [🚀 How It Works](#-how-it-works)
-- [🛠️ Product UML](#-product's-uml)
+- [🛠️ Product's UML](#-product's-uml)
 - [📊 Dataset](#-dataset)
 - [🧠 Results of the Training](#-results-of-the-training)
 - [🧪 Testing](#-testing)
