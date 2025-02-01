@@ -55,6 +55,10 @@ Video about the Game
 ---
 
 ## 🚀 **How It Works**
+For the full description see [Phase A Book](https://drive.google.com/file/d/153BKVpO8u6qMvd_Xfvm-vfoBHvbb_BWf/view?usp=sharing
+) [Phase B Book](https://drive.google.com/file/d/153BKVpO8u6qMvd_Xfvm-vfoBHvbb_BWf/view?usp=sharing
+)
+
 1️⃣ **Detect & Categorize Trash**  
    - Uses **YOLOv8 Object Detection** to classify waste items.  
 
@@ -64,7 +68,7 @@ Video about the Game
 3️⃣ **Gamified Experience**  
    - Users **earn points** based on the type & quantity of trash collected.
 
-4️⃣ **Track Progress** *(Future Scope)*  
+4️⃣ **Track Progress** 
    - A **leaderboard system** to encourage community participation.
 
 ---
