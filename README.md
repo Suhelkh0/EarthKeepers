@@ -55,9 +55,8 @@ Video about the Game
 ---
 
 ## 🚀 **How It Works**
-For the full description see [Phase A Book](https://drive.google.com/file/d/153BKVpO8u6qMvd_Xfvm-vfoBHvbb_BWf/view?usp=sharing
-) [Phase B Book](https://drive.google.com/file/d/153BKVpO8u6qMvd_Xfvm-vfoBHvbb_BWf/view?usp=sharing
-)
+For the full description see [Phase A Book](https://suhelkh0.github.io/EarthKeepers/guideForWallet.docx)
+[Phase B Book](https://suhelkh0.github.io/EarthKeepers/guideForWallet.docx)
 
 1️⃣ **Detect & Categorize Trash**  
    - Uses **YOLOv8 Object Detection** to classify waste items.  
