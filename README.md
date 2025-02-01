@@ -94,7 +94,7 @@ For the full description of the project see the files in the repository:
 
 ---
 
-## ** 📊 Dataset**  
+## 📊 **Dataset**  
 The dataset contains 9 different classes: Can, Glass Bottle, Paper Cup, Peel, Plastic Bag, Plastic Bottle, Plastic Cup, Snack Wrapper, Tissue
 
 🌍 View and download the dataset on **Roboflow**:  
@@ -103,14 +103,14 @@ The dataset contains 9 different classes: Can, Glass Bottle, Paper Cup, Peel, Pl
 
 ---
 
-## ** 🧠 Results of the Training**  
+## 🧠 **Results of the Training**  
 <img width="670" alt="Screenshot 2025-02-01 at 13 51 51" src="https://github.com/user-attachments/assets/d2358430-f865-42bd-9c41-1b1a547bc55c" />
 <img width="724" alt="Screenshot 2025-02-01 at 13 52 00" src="https://github.com/user-attachments/assets/4e1a68db-958a-4112-8442-57062fb79980" />
 <img width="823" alt="Screenshot 2025-02-01 at 13 52 21" src="https://github.com/user-attachments/assets/6d0d7983-c3de-4122-882a-667abdd278a4" />
 
 ---
 
-## ** 🧪 Testing**  
+## 🧪 **Testing**  
 <img width="844" alt="Screenshot 2025-02-01 at 13 52 52" src="https://github.com/user-attachments/assets/cd5f81da-8453-48dc-b63e-f9745774b7b7" />
 
 ---
