@@ -73,6 +73,8 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 ---
 
 ## 📊 **Earth Keepers Dataset**  
+The dataset contains 9 different classes: Can, Glass Bottle, Paper Cup, Peel, Plastic Bag, Plastic Bottle, Plastic Cup, Snack Wrapper, Tissue
+
 🌍 View and download the dataset on **Roboflow**:  
 ➡️ [Click Here to Download the Dataset](https://app.roboflow.com/ds/JNJzUsu9vz?key=l9qvdbAKVO
 )
