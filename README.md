@@ -51,7 +51,7 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 ## 📸 **Technologies Used**
 | Feature  | Screenshot |
 |----------|-----------|
-| **Trash Detection** | YOLOv8 |
+| **Trash Detection, Computer Vision** | YOLOv8 |
 | **Hand Gesture Recognition** | MediaPipe |
 | **Language** | Kotlin |
 | **Database** | Firebase |
