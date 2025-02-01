@@ -22,6 +22,7 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 - [🛠 Features](#-features)
 - [🎯 Target Audience](#-target-audience)
 - [📸 Technologies Used](#-technologies-used)
+- [📸 Product Architecture](#-product-architecture)
 - [🚀 How It Works](#-how-it-works)
 - [📦 Installation](#-installation)
 
@@ -51,6 +52,11 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 | **Hand Gesture Recognition** | MediaPipe |
 | **Language** | Kotlin |
 | **Database** | Firebase |
+
+---
+
+## 🚀 **Product Architecture**
+
 
 ---
 
