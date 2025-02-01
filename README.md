@@ -55,8 +55,9 @@ Video about the Game
 ---
 
 ## 🚀 **How It Works**
-For the full description of the app see [Phase A Book](https://suhelkh0.github.io/EarthKeepers/raw/main/docs/Capstone_Project_Phase_A.docx)
-[Phase B Book](https://suhelkh0.github.io/EarthKeepers/Capstone_Project_Phase_B.docx)
+For the full description of the app see the files in the repository:
+- Capstone_Project_Phase_A.docx
+- Capstone_Project_Phase_B.docx
 
 1️⃣ **Detect & Categorize Trash**  
    - Uses **YOLOv8 Object Detection** to classify waste items.  
