@@ -56,6 +56,7 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 ---
 
 ## 🚀 **Product Architecture**
+###Software Architecture Diagra
 <img width="489" alt="Software Architecture Diagram" src="https://github.com/user-attachments/assets/a70a2996-154c-450f-872b-f0e2333d9263" />
 
 
