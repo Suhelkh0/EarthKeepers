@@ -67,7 +67,8 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 ### **Activity Diagram**
 
 <img  alt="Use Case Diagram" src="https://github.com/user-attachments/assets/fce4c022-983a-44e7-ab0e-87b6f3ab60b7" />
-![Activity Diagram](https://github.com/user-attachments/assets/9ea59b15-3a4e-4725-9001-24edae1be771)
+<img width="868" alt="Screenshot 2025-02-01 at 13 26 16" src="https://github.com/user-attachments/assets/3c571c0c-5ab8-4a15-8a7c-21a600d29b4a" />
+
 
 
 ---
