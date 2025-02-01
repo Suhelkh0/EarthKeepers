@@ -58,7 +58,7 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 ## 🚀 **Product's UML**
 ### **Software Architecture Diagram**
 
-<img width="500" hight="500" alt="Software Architecture Diagram" src="https://github.com/user-attachments/assets/a70a2996-154c-450f-872b-f0e2333d9263" />
+<img width="500" hight="1000" alt="Software Architecture Diagram" src="https://github.com/user-attachments/assets/a70a2996-154c-450f-872b-f0e2333d9263" />
 
 ### **Use Case Diagram**
 
