@@ -70,7 +70,11 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 
 <img width="868" alt="Screenshot 2025-02-01 at 13 26 16" src="https://github.com/user-attachments/assets/3c571c0c-5ab8-4a15-8a7c-21a600d29b4a" />
 
+---
 
+## 📊 **Earth Keepers Dataset**  
+🌍 View and download the dataset on **Roboflow**:  
+➡️ [Click Here to Download the Dataset]([https://universe.roboflow.com/YOUR-DATASET-LINK](https://app.roboflow.com/ds/JNJzUsu9vz?key=l9qvdbAKVO))
 
 ---
 
