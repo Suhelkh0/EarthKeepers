@@ -82,5 +82,5 @@ Ensure you have the following installed:
 - YOLOv8 (`pip install ultralytics`)
 - MediaPipe (`pip install mediapipe`)
 
-Also you must download the trained model of the YOLOv8 by clicking on this link: ➡️ [Click Here to Download](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/YOUR_FILE.zip)
+Also you must download the trained model of the YOLOv8 by clicking on this link: ➡️ [Click Here to Download](https://github.com/Suhelkh0/EarthKeepers/releases/latest/download/model,tflite)
 
