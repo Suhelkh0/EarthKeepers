@@ -58,15 +58,16 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 ## 🚀 **Product's UML**
 ### **Software Architecture Diagram**
 
-<img width="489" alt="Software Architecture Diagram" src="https://github.com/user-attachments/assets/a70a2996-154c-450f-872b-f0e2333d9263" />
+<img width="871" alt="Screenshot 2025-02-01 at 13 27 16" src="https://github.com/user-attachments/assets/a420e2d9-4bb7-464a-b49f-66462dfb7ab3" />
+
 
 ### **Use Case Diagram**
 
-<img width="489" alt="Use Case Diagram" src="https://github.com/user-attachments/assets/b3e7d57e-f06a-4f88-9cca-d1817b21c88b" />
+<img width="617" alt="Screenshot 2025-02-01 at 13 27 56" src="https://github.com/user-attachments/assets/4445125d-a4d5-4224-adab-ac3eede9d91e" />
+
 
 ### **Activity Diagram**
 
-<img  alt="Use Case Diagram" src="https://github.com/user-attachments/assets/fce4c022-983a-44e7-ab0e-87b6f3ab60b7" />
 <img width="868" alt="Screenshot 2025-02-01 at 13 26 16" src="https://github.com/user-attachments/assets/3c571c0c-5ab8-4a15-8a7c-21a600d29b4a" />
 
 
