@@ -55,7 +55,7 @@ Video about the Game
 ---
 
 ## 🚀 **How It Works**
-For the full description of the app see the files in the repository:
+For the full description of the project see the files in the repository:
 - Capstone_Project_Phase_A.docx
 - Capstone_Project_Phase_B.docx
 
