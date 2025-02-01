@@ -55,7 +55,7 @@ Video about the Game
 ---
 
 ## 🚀 **How It Works**
-For the full description see [Phase A Book](https://drive.google.com/file/d/153BKVpO8u6qMvd_Xfvm-vfoBHvbb_BWf/view?usp=sharing
+For the full description see [Phase A Book](Capstone Project Phase A-24-1-D-9 .docx)
 ) [Phase B Book](https://drive.google.com/file/d/153BKVpO8u6qMvd_Xfvm-vfoBHvbb_BWf/view?usp=sharing
 )
 
