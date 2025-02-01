@@ -23,10 +23,10 @@ A **fun, engaging, and gamified experience** that encourages users to participat
 - [🎯 Target Audience](#-target-audience)
 - [📸 Technologies Used](#-technologies-used)
 - [🚀 How It Works](#-how-it-works)
-- [📸 Product Architecture](#-product's-uml)
-- [📸 Dataset](#-dataset)
-- [📸 Results of the Training](#-results-of-the-training)
-- [📸 Testing](#-testing)
+- [🛠️ Product UML](#-product's-uml)
+- [📊 Dataset](#-dataset)
+- [🧠 Results of the Training](#-results-of-the-training)
+- [🧪 Testing](#-testing)
 - [📦 Installation](#-installation)
 
 ---
@@ -77,7 +77,7 @@ For the full description of the project see the files in the repository:
 
 ---
 
-## 🚀 **Product's UML**
+## 🛠️ **Product's UML**
 ### **Software Architecture Diagram**
 
 <img width="871" alt="Screenshot 2025-02-01 at 13 27 16" src="https://github.com/user-attachments/assets/a420e2d9-4bb7-464a-b49f-66462dfb7ab3" />
@@ -94,7 +94,7 @@ For the full description of the project see the files in the repository:
 
 ---
 
-## 📊 **Dataset**  
+## ** 📊 Dataset**  
 The dataset contains 9 different classes: Can, Glass Bottle, Paper Cup, Peel, Plastic Bag, Plastic Bottle, Plastic Cup, Snack Wrapper, Tissue
 
 🌍 View and download the dataset on **Roboflow**:  
@@ -103,14 +103,14 @@ The dataset contains 9 different classes: Can, Glass Bottle, Paper Cup, Peel, Pl
 
 ---
 
-## **Results of the Training**  
+## ** 🧠 Results of the Training**  
 <img width="670" alt="Screenshot 2025-02-01 at 13 51 51" src="https://github.com/user-attachments/assets/d2358430-f865-42bd-9c41-1b1a547bc55c" />
 <img width="724" alt="Screenshot 2025-02-01 at 13 52 00" src="https://github.com/user-attachments/assets/4e1a68db-958a-4112-8442-57062fb79980" />
 <img width="823" alt="Screenshot 2025-02-01 at 13 52 21" src="https://github.com/user-attachments/assets/6d0d7983-c3de-4122-882a-667abdd278a4" />
 
 ---
 
-## **Testing**  
+## ** 🧪 Testing**  
 <img width="844" alt="Screenshot 2025-02-01 at 13 52 52" src="https://github.com/user-attachments/assets/cd5f81da-8453-48dc-b63e-f9745774b7b7" />
 
 ---
